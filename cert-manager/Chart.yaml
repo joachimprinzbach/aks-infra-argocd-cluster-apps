@@ -6,4 +6,3 @@ dependencies:
     version: v1.12.1
     repository: https://charts.jetstack.io
     alias: cert-manager
-    condition: cert-manager.enabled
